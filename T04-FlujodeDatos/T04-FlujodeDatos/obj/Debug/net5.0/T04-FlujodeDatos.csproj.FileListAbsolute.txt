@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\T04-FlujodeDatos.exe
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\T04-FlujodeDatos.deps.json
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\T04-FlujodeDatos.runtimeconfig.json
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\T04-FlujodeDatos.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\T04-FlujodeDatos.dll
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\ref\T04-FlujodeDatos.dll
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\bin\Debug\net5.0\T04-FlujodeDatos.pdb
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.dll
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\ref\T04-FlujodeDatos.dll
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.pdb
+C:\Users\ASUS\source\repos\T04-FlujodeDatos\T04-FlujodeDatos\obj\Debug\net5.0\T04-FlujodeDatos.genruntimeconfig.cache
