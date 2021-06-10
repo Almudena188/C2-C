@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UD3-C Basics/1.0.0": {
+        "runtime": {
+          "UD3-C Basics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UD3-C Basics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
