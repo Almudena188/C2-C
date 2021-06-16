@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\T05-MetodosYArrays.exe
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\T05-MetodosYArrays.deps.json
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\T05-MetodosYArrays.runtimeconfig.json
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\T05-MetodosYArrays.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\T05-MetodosYArrays.dll
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\ref\T05-MetodosYArrays.dll
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\bin\Debug\net5.0\T05-MetodosYArrays.pdb
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.dll
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\ref\T05-MetodosYArrays.dll
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.pdb
+C:\Users\ASUS\source\repos\T05-MetodosYArrays\T05-MetodosYArrays\obj\Debug\net5.0\T05-MetodosYArrays.genruntimeconfig.cache
