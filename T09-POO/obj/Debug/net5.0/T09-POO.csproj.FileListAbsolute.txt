@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\T09-POO.exe
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\T09-POO.deps.json
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\T09-POO.runtimeconfig.json
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\T09-POO.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\T09-POO.dll
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\ref\T09-POO.dll
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\bin\Debug\net5.0\T09-POO.pdb
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.dll
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\ref\T09-POO.dll
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.pdb
+C:\Users\ASUS\source\repos\T09-POO\T09-POO\obj\Debug\net5.0\T09-POO.genruntimeconfig.cache
